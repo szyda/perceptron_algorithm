@@ -30,5 +30,6 @@ pip install scikit-datasets
 1. Clone the repository.
 2. Install dependencies.
 3. Run the script (python main.py).
-<br></br>
-**Note:** This project was made for an Introduction to Artificial Intelligence course at school, showcasing practical application of AI principles in a controlled educational environment.
+
+#### Note
+This project was made for an Introduction to Artificial Intelligence course at school, showcasing practical application of AI principles in a controlled educational environment.
